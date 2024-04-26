@@ -1,0 +1,11 @@
+#docker-compose.yml
+version: '3.7'
+
+services:
+  web4ai:
+    build: ./code
+    container_name: "django"
+    volumes:
+      - ./code:/code
+    ports:
+      - 7777:7777
