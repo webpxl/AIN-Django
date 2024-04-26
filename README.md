@@ -4,6 +4,8 @@
 
 In this hands-on project, students will dive into the world of Django, by creating a dynamic and engaging web application centered around EURO 2024 ([football](https://en.wikipedia.org/wiki/UEFA_Euro_2024?useskin=vector))) that takes place from 14 June to 14 July. 
 
+<img src='img/euro.png' height='160px' style='display:block; margin: 20px auto;' />
+
 Get ready to unleash your creativity, learn essential Django concepts, and craft a platform where fans can stay updated with the latest scores, fixtures, and team information. Let's kick off this exciting journey into the realm of sports web development!
 
 # Exercise
