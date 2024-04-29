@@ -12,7 +12,7 @@ Get ready to unleash your creativity, learn essential Django concepts, and craft
 
 # Exercise
 
-Create an app that allows you to view public data about the EURO 2024 championship. (poules, standings, locations, matches, teams, players, ...) You can decide what the app focuses on.
+Create an app that allows you to view public data about the EURO 2024 championship. (poules, standings, locations, matches, teams, players, ...) You can decide what the app focuses on: matches, scores, standings, players, teams, ...
 Make sure that you create the right models and to link them together as in a well-structured database.
 
 You should be able to use the Django admin module to add or alter data.
